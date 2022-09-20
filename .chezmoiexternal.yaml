@@ -1,0 +1,4 @@
+.emacs.d:
+  type: "git-repo"
+  url: "https://github.com/ndbrew/emacs.d"
+  refreshPeriod: "1h"
